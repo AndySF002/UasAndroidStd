@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">uasPraktikum</string>
+    <array name="Pro">
+        <item>Teknik Informatika</item>
+        <item>System Informasi</item>
+        <item>Fisika</item>
+    </array>
+</resources>

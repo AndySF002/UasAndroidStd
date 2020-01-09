@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "991779573385",
+    "firebase_url": "https://uaspraktikum-d3401.firebaseio.com",
+    "project_id": "uaspraktikum-d3401",
+    "storage_bucket": "uaspraktikum-d3401.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991779573385:android:22ab60eb23c0462aac0058",
+        "android_client_info": {
+          "package_name": "com.example.uaspraktikum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991779573385-nsp1qvhs6rak7ual9qm2aus551jjrl24.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uaspraktikum",
+            "certificate_hash": "de21c380ba93376588c6cb0a6ca3f08cd6718df3"
+          }
+        },
+        {
+          "client_id": "991779573385-d1nfk83975cl65rpqgremmqojev30r64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj7WXtcepmr8hh_zHonGQE3Sjykb0YMus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991779573385-d1nfk83975cl65rpqgremmqojev30r64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
